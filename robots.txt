@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://caephexais.git.claims/sitemap.xml
